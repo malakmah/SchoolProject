@@ -1,0 +1,11 @@
+F:\project.Net\SchoolProject\SchoolProject.Infrastructure\bin\Debug\net9.0\SchoolProject.Infrastructure.deps.json
+F:\project.Net\SchoolProject\SchoolProject.Infrastructure\bin\Debug\net9.0\SchoolProject.Infrastructure.dll
+F:\project.Net\SchoolProject\SchoolProject.Infrastructure\bin\Debug\net9.0\SchoolProject.Infrastructure.pdb
+F:\project.Net\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net9.0\SchoolProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\project.Net\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net9.0\SchoolProject.Infrastructure.AssemblyInfoInputs.cache
+F:\project.Net\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net9.0\SchoolProject.Infrastructure.AssemblyInfo.cs
+F:\project.Net\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net9.0\SchoolProject.Infrastructure.csproj.CoreCompileInputs.cache
+F:\project.Net\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net9.0\SchoolProject.Infrastructure.dll
+F:\project.Net\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net9.0\refint\SchoolProject.Infrastructure.dll
+F:\project.Net\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net9.0\SchoolProject.Infrastructure.pdb
+F:\project.Net\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net9.0\ref\SchoolProject.Infrastructure.dll

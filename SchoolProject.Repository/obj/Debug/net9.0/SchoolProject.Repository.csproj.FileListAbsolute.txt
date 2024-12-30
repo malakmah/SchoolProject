@@ -1,0 +1,11 @@
+F:\project.Net\SchoolProject\SchoolProject.Repository\bin\Debug\net9.0\SchoolProject.Repository.deps.json
+F:\project.Net\SchoolProject\SchoolProject.Repository\bin\Debug\net9.0\SchoolProject.Repository.dll
+F:\project.Net\SchoolProject\SchoolProject.Repository\bin\Debug\net9.0\SchoolProject.Repository.pdb
+F:\project.Net\SchoolProject\SchoolProject.Repository\obj\Debug\net9.0\SchoolProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\project.Net\SchoolProject\SchoolProject.Repository\obj\Debug\net9.0\SchoolProject.Repository.AssemblyInfoInputs.cache
+F:\project.Net\SchoolProject\SchoolProject.Repository\obj\Debug\net9.0\SchoolProject.Repository.AssemblyInfo.cs
+F:\project.Net\SchoolProject\SchoolProject.Repository\obj\Debug\net9.0\SchoolProject.Repository.csproj.CoreCompileInputs.cache
+F:\project.Net\SchoolProject\SchoolProject.Repository\obj\Debug\net9.0\SchoolProject.Repository.dll
+F:\project.Net\SchoolProject\SchoolProject.Repository\obj\Debug\net9.0\refint\SchoolProject.Repository.dll
+F:\project.Net\SchoolProject\SchoolProject.Repository\obj\Debug\net9.0\SchoolProject.Repository.pdb
+F:\project.Net\SchoolProject\SchoolProject.Repository\obj\Debug\net9.0\ref\SchoolProject.Repository.dll
